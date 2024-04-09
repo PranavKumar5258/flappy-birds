@@ -1,4 +1,4 @@
-"""Flappy, game inspired by Flappy Bird.
+
 
 Exercises
 1. Keep score.
